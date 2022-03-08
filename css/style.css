@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(226, 243, 243);
+}
+p{
+  color:black;
+  text-decoration-line: overline;
+  text-decoration-color: none;  
+}
